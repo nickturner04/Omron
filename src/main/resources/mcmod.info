@@ -1,0 +1,16 @@
+[
+{
+  "modid": "${modId}",
+  "name": "${modName}",
+  "description": "Common Components",
+  "version": "${modVersion}",
+  "mcversion": "${minecraftVersion}",
+  "url": "http://www.minecraftforum.net/topic/1899223-",
+  "updateUrl": "",
+  "authorList": ["creditcrab"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

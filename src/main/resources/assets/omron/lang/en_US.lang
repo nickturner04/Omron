@@ -1,0 +1,31 @@
+language.name=English
+language.region=US
+language.code=en_US
+
+tile.Omron_TestBlock.name=Test Block
+
+item.testItem.name=Test Item
+
+item.helmetOmron.name=Omron Helmet
+item.chestplateOmron.name=Omron Chestplate
+item.leggingsOmron.name=Omron Leggings
+item.bootsOmron.name=Omron Boots
+
+item.omron:ingotTitanium.name=Titanium Ingot
+omron:ingotTitanium.name=Titanium Ingot
+omron:ingotTitaniumImpure.name=Impure Titanium Ingot
+omron:cableAluminium.name=Aluminium Cable
+omron:cableElectrum.name=Electrum Cable
+
+item.helmetOmronBroken.name=Omron Helmet(Broken)
+item.chestplateOmronBroken.name=Omron Chestplate(Broken)
+item.leggingsOmronBroken.name=Omron Leggings(Broken)
+item.bootsOmronBroken.name=Omron Boots(Broken)
+
+tile.customChest0.name=Custom Chest Tier 1
+tile.customChest1.name=Custom Chest Tier 2
+tile.customChest2.name=Custom Chest Tier 3
+
+tile.Omron_blockCustomChest.name=CustomChest
+
+tile.blockTitaniumProcessor.name=Titanium Purifier
